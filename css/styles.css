@@ -1,0 +1,242 @@
+.navbar
+{
+	padding:0 0 4.5rem;
+}
+.navbar-brand
+{
+
+	font-size: 2rem;
+	font-family: 'Ubuntu', sans-serif;
+}
+.nav-item
+{
+	padding: 0 18px;
+}
+.nav-link
+{
+	font-family: 'Montserrat-light';
+	font-size: 1.5rem;
+}
+h1
+{
+	color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.container-fluid
+{
+	background-color:#ff4c68 ;
+	padding: 3% 15%;
+}
+.iphone
+{
+	position: absolute;
+	right: 140px;
+	width: 60%;
+	transform: rotate(28deg);
+}
+#title
+{
+	padding-bottom: 50px;
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+}
+.download-button
+{
+	margin: 5% 3% 5% 0;
+}
+/*features section*/
+#features
+{
+	background-color: white;
+	position: relative;
+	text-align: center;
+	padding: 7% 15%;
+    z-index: 2;
+}
+h3
+{
+	font-family: 'Montserrat', sans-serif;
+}
+h2
+{
+
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+	font-size: 2.5rem;
+	line-height: 1.5;
+}
+p
+{
+	color: gray;
+}
+em
+{
+	color: #fff;
+}
+.icon
+{
+	margin-bottom: 20px;
+	color: #fb7b6b;
+}
+.icon:hover
+{
+	color:  #ff4c68;
+}
+.features-column
+{
+	padding: 30px 0;
+}
+#testimonials
+{
+	text-align: center;
+	background-color:#fb7b6b;
+    font-family:'Montserrat', sans-serif; 
+
+}
+.carousel-item
+{
+	padding: 7% 15%;
+}
+.testimonial-image
+{
+	margin: 20px;
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+}
+#press
+{
+	padding-bottom: 50px;
+	background-color:#fb7b6b ;
+	text-align: center;
+}
+.press-image
+{
+	width: 15%;
+	margin: 0 20px;
+}
+#pricing
+{
+	padding: 100px;
+	text-align: center;
+}
+.row
+{
+	margin-top: 30px;
+}
+@media(max-width: 1025px)
+{
+	#title
+	{
+		text-align: center;
+	}
+	.iphone
+	{
+		position: static;
+		transform: rotate(0deg);
+	}
+	
+}
+#cta
+{
+	text-align: center;
+	background-color: #ff4c68;
+	padding: 5% 15% 7% 15%;
+}
+.footer-heading
+{
+	line-height: 1.5;	
+	color: #fff;
+	margin-bottom: 50px;
+    font-family:'Montserrat', sans-serif; 
+    font-size: 3rem;
+
+}
+.footer-download
+{
+	margin-right:30px ;
+}
+#footer
+{
+	text-align: center;
+	padding: 7% 15%;
+	background-color: #fff;
+}
+.social
+{
+	color: black;
+}
+.social-link
+{
+	margin: 0 8px ;
+}
+.footer-copy
+{
+	margin-top: 15px;
+}
+.signup:hover
+{
+	text-decoration: none;
+
+}
+/* signup page*/
+.heading-for-signup
+{
+	font-size: 2.5rem;
+	color: black;
+}
+
+.name
+{
+   margin: 0 15px;
+}
+.input-text
+{
+	margin-bottom: 20px;
+}
+.input-check
+{
+	margin-bottom: 20px;
+}
+
+.form
+{
+	margin: 7% ;
+	background-color: #ff4c68;
+}
+.signup-form
+{
+	border-radius: 10%;
+	margin-bottom: 100px;
+	position: absolute;
+	left: 450px;
+	padding: 30px;
+	display: inline-block;
+	background-color: #fff;
+}
+.button
+{
+	margin-bottom: 20px;
+}
+/*log in page*/
+.login-body
+{
+	background-color:#ff4c68; 
+}
+.login-input
+{
+	width: 300px;
+}
+.login
+{
+	border-radius: 10%;
+	padding: 30px;
+	position: absolute;
+	left: 450px;
+	top: 100px;
+    background-color: #fff;
+	display: inline-block;
+}
+
