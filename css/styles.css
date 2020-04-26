@@ -122,6 +122,10 @@ em
 	padding: 100px;
 	text-align: center;
 }
+.card
+{
+        margin-bottom:20px;
+}
 .row
 {
 	margin-top: 30px;
