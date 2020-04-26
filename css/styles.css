@@ -208,10 +208,11 @@ em
 }
 .signup-form
 {
+	width:100%;
 	border-radius: 10%;
 	margin-bottom: 100px;
-	position: absolute;
-	left: 450px;
+	/*position: absolute;
+	left: 450px;*/
 	padding: 30px;
 	display: inline-block;
 	background-color: #fff;
